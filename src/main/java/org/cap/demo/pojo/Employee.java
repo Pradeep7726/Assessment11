@@ -8,7 +8,8 @@ public class Employee {
 	private double salary;
 	
 	
-	public Employee() {
+	public Employee()
+	{
 		
 	}
 	public Employee(int empId, String firstName, String lastName, double salary) {
