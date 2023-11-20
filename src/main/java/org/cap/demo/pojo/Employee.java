@@ -11,6 +11,7 @@ public class Employee {
 	public Employee() {
 		
 		
+		
 	}
 	public Employee(int empId, String firstName, String lastName, double salary) {
 		super();
